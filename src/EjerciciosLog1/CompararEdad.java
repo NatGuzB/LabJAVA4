@@ -19,7 +19,7 @@ public class CompararEdad {
         boolean mismaEdad = edadPepito == edadJuan;
 
 
-        //Transforma el booleano en texto, ya definido.
+        //Bool a texto.
         String cadena1 = esMayor ? "Es verdadero" : "Es falso";
         String cadena2 = esMenor ? "Es verdadero" : "Es falso";
         String cadena3 = mismaEdad ? "Es verdadero" : "Es falso";
